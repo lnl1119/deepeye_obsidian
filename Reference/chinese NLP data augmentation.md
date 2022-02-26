@@ -1,0 +1,3 @@
+- https://marssu.coderbridge.io/2020/10/26/nlp-data-augmenatation-%E5%B8%B8%E8%A6%8B%E6%96%B9%E6%B3%95/ 
+- https://github.com/gmftbyGMFTBY/EDA-NLP-Chinese
+- https://github.com/425776024/nlpcda#2%E9%9A%8F%E6%9C%BA%E5%90%8C%E4%B9%89%E8%AF%8D%E6%9B%BF%E6%8D%A2

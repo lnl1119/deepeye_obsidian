@@ -1,0 +1,11 @@
+{
+  "spellcheck": true,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "showFrontmatter": true
+}

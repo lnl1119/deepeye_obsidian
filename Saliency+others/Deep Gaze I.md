@@ -1,0 +1,7 @@
+[TOC]
+
+# Imagenet
+
+
+# Reference
+[DEEP GAZE I: BOOSTING SALIENCY PREDICTION WITH FEATURE MAPS TRAINED ON IMAGENET](https://arxiv.org/pdf/1411.1045.pdf)

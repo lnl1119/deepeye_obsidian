@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "1647a62f69693a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff964e8699719cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design/1. Experimental Design.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "6653e618f973b00d"
+      },
+      {
+        "id": "b999b5a8d9dba880",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Design/1. Experimental Design.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "6653e618f973b00d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d549ac3dbc655018",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a40ff7a1ae3cbd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbad500c624dc2e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca4e1a9a50d306aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f043af7c9331629",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3ad57751464410f",
+    "type": "split",
+    "children": [
+      {
+        "id": "133edf2f289c4860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f248bec233e0fdc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Design/1. Experimental Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6ff964e8699719cd",
+  "lastOpenFiles": [
+    "Design/1. Experimental Design.md",
+    "Reference/bi-directional LSTM.md",
+    "Design/0. ongoing.md",
+    "Design/2. Method.md",
+    "Reference/0. A Simple Model of Reading Eye Movement Based on Deep Learning.md",
+    "Saliency+others/0. Saliuency Reference.md",
+    "Reference/LSTM.md",
+    "Reference/RNN.md",
+    "Reference/CRF.md",
+    "Design/0.menu.md"
+  ]
+}
