@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/RNN.md",
+            "file": "Design/1. Experimental Design.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/RNN.md",
+            "file": "Design/1. Experimental Design.md",
             "mode": "preview",
             "backlinks": false,
             "source": true
@@ -81,8 +81,8 @@
   },
   "active": "6ff964e8699719cd",
   "lastOpenFiles": [
-    "Reference/RNN.md",
     "Design/1. Experimental Design.md",
+    "Reference/RNN.md",
     "Design/0. ongoing.md",
     "Reference/bi-directional LSTM.md",
     "Design/2. Method.md",
