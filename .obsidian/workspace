@@ -11,6 +11,7 @@
           "state": {
             "file": "Design/1. Experimental Design.md",
             "mode": "source",
+            "backlinks": true,
             "source": true
           }
         },
@@ -24,6 +25,7 @@
           "state": {
             "file": "Design/1. Experimental Design.md",
             "mode": "preview",
+            "backlinks": true,
             "source": true
           }
         },
