@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design/0. ongoing.md",
+            "file": "Reference/RNN.md",
             "mode": "source",
-            "backlinks": true,
+            "backlinks": false,
             "source": true
           }
         },
@@ -23,9 +23,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design/0. ongoing.md",
+            "file": "Reference/RNN.md",
             "mode": "preview",
-            "backlinks": true,
+            "backlinks": false,
             "source": true
           }
         },
@@ -74,45 +74,21 @@
   "right": {
     "id": "f3ad57751464410f",
     "type": "split",
-    "children": [
-      {
-        "id": "133edf2f289c4860",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f248bec233e0fdc7",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Design/0. ongoing.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "active": "6ff964e8699719cd",
   "lastOpenFiles": [
-    "Design/0. ongoing.md",
+    "Reference/RNN.md",
     "Design/1. Experimental Design.md",
+    "Design/0. ongoing.md",
     "Reference/bi-directional LSTM.md",
     "Design/2. Method.md",
     "Reference/0. A Simple Model of Reading Eye Movement Based on Deep Learning.md",
     "Saliency+others/0. Saliuency Reference.md",
     "Reference/LSTM.md",
-    "Reference/RNN.md",
     "Reference/CRF.md",
     "Design/0.menu.md"
   ]
